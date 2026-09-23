@@ -194,48 +194,23 @@ deploying applications, and thinking about application security.
 
 ### 🎨 Frontend
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"
-    alt="Frontend Technologies"
-  />
-</p>
+`HTML` `CSS` `JavaScript` `React` `Tailwind CSS`
 
 ### ⚙️ Backend
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,express,python"
-    alt="Backend Technologies"
-  />
-</p>
+`Node.js` `Express.js` `Python`
 
 ### 🗄️ Databases
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"
-    alt="Database Technologies"
-  />
-</p>
+`MongoDB` `PostgreSQL` `MySQL`
 
 ### 🔐 Cybersecurity & Systems
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=linux,bash,docker"
-    alt="Cybersecurity and Systems Technologies"
-  />
-</p>
+`Linux` `Bash` `Docker`
 
 ### 🔧 Development Tools
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=git,github,vscode,postman"
-    alt="Development Tools"
-  />
-</p>
+`Git` `GitHub` `VS Code` `Postman`
 
 <br />
 
@@ -448,12 +423,3 @@ the channels below.
 - 🔐 Web application security reviews (authorized environments only)
 - 🚀 Collaboration on open-source and side projects
 - 💬 Tech and cybersecurity discussions
-
-<br />
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00A8FF&style=flat"
-    alt="Profile views"
-  />
-</p>
