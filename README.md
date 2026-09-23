@@ -29,26 +29,6 @@
 
 <br />
 
-<!-- ========================================================= -->
-<!--                  PROFILE NAVIGATION                       -->
-<!-- ========================================================= -->
-
-<p align="center">
-
-<a href="#-about-me">👨‍💻 About Me</a>
-&nbsp; • &nbsp;
-<a href="#-cybersecurity-skills">🛡️ Cybersecurity</a>
-&nbsp; • &nbsp;
-<a href="#-tools--technologies">🛠️ Technologies</a>
-&nbsp; • &nbsp;
-<a href="#-featured-projects">🚀 Projects</a>
-&nbsp; • &nbsp;
-<a href="#-contact-me">📫 Contact</a>
-
-</p>
-
-<br />
-
 ---
 
 <!-- ========================================================= -->
@@ -284,7 +264,7 @@ deploying applications, and thinking about application security.
 ---
 
 <!-- ========================================================= -->
-<!--                    FEATURED PROJECTS                       -->
+<!--                    FEATURED PROJECTS                      -->
 <!-- ========================================================= -->
 
 ## 🚀 Featured Projects
