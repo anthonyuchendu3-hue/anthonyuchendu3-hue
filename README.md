@@ -264,7 +264,7 @@ deploying applications, and thinking about application security.
 ---
 
 <!-- ========================================================= -->
-<!--                    FEATURED PROJECTS                      -->
+<!--                    FEATURED PROJECTS                       -->
 <!-- ========================================================= -->
 
 ## 🚀 Featured Projects
