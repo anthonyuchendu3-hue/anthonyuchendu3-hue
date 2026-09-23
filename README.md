@@ -442,23 +442,12 @@ the channels below.
   </a>
 </p>
 
-| Channel | Details |
-|---|---|
-| 📧 Email | [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com) |
-| 💼 LinkedIn | [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME) |
-| 🐙 GitHub | [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME) |
-| 🌐 Portfolio | [YOUR_PORTFOLIO_URL](https://YOUR_PORTFOLIO_URL) |
-
 ### 🤝 Open To
 
 - 💻 Freelance full-stack development projects
 - 🔐 Web application security reviews (authorized environments only)
 - 🚀 Collaboration on open-source and side projects
 - 💬 Tech and cybersecurity discussions
-
-<p align="center">
-  <em>Let's build something secure, scalable, and useful together. 🚀</em>
-</p>
 
 <br />
 
