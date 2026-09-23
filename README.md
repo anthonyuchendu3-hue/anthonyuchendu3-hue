@@ -194,46 +194,51 @@ deploying applications, and thinking about application security.
 
 ### 🎨 Frontend
 
-<p>
+<p style="pointer-events: none; user-select: none;">
   <img
     src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"
     alt="Frontend Technologies"
+    style="pointer-events: none; user-select: none;"
   />
 </p>
 
 ### ⚙️ Backend
 
-<p>
+<p style="pointer-events: none; user-select: none;">
   <img
     src="https://skillicons.dev/icons?i=nodejs,express,python"
     alt="Backend Technologies"
+    style="pointer-events: none; user-select: none;"
   />
 </p>
 
 ### 🗄️ Databases
 
-<p>
+<p style="pointer-events: none; user-select: none;">
   <img
     src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"
     alt="Database Technologies"
+    style="pointer-events: none; user-select: none;"
   />
 </p>
 
 ### 🔐 Cybersecurity & Systems
 
-<p>
+<p style="pointer-events: none; user-select: none;">
   <img
     src="https://skillicons.dev/icons?i=linux,bash,docker"
     alt="Cybersecurity and Systems Technologies"
+    style="pointer-events: none; user-select: none;"
   />
 </p>
 
 ### 🔧 Development Tools
 
-<p>
+<p style="pointer-events: none; user-select: none;">
   <img
     src="https://skillicons.dev/icons?i=git,github,vscode,postman"
     alt="Development Tools"
+    style="pointer-events: none; user-select: none;"
   />
 </p>
 
@@ -407,111 +412,3 @@ TEST         → Find problems before users do
 IMPROVE      → Learn from every project
 DEPLOY       → Turn ideas into real products
 REPEAT       → Keep growing
-```
-
-### My Principles
-
-- ✨ Write clean and maintainable code
-- 🔐 Think about security from the beginning
-- 📖 Keep learning
-- 🧪 Test what I build
-- 🧩 Build reusable solutions
-- 📈 Improve continuously
-- 🤝 Collaborate and communicate
-- 🚀 Turn ideas into working products
-
-<br />
-
----
-
-<!-- ========================================================= -->
-<!--                       2026 GOALS                           -->
-<!-- ========================================================= -->
-
-## 🎯 2026 Goals
-
-- 🚀 Build and deploy more production-ready applications
-- 🔐 Improve my cybersecurity expertise
-- 🌐 Build secure full-stack applications
-- 🧠 Strengthen backend architecture skills
-- 🐧 Improve Linux and networking knowledge
-- 🐳 Learn more about Docker and DevOps
-- ☁️ Expand cloud and deployment knowledge
-- 🤝 Contribute to open-source projects
-- 📚 Continue learning security research
-- 💼 Build solutions for real-world clients
-
-<br />
-
----
-
-<!-- ========================================================= -->
-<!--                       OPEN TO                             -->
-<!-- ========================================================= -->
-
-## 🤝 Open To
-
-I'm interested in connecting with people working on:
-
-- 💻 Full-Stack Development
-- 🌐 Web Development
-- 🔐 Cybersecurity
-- 🛡️ Application Security
-- 🖥️ Backend Engineering
-- 🚀 Startup & Technology Projects
-- 🤝 Open-Source Projects
-- 💼 Freelance & Professional Opportunities
-- 📚 Technology Communities
-
-<br />
-
----
-
-<!-- ========================================================= -->
-<!--                      CONTACT ME                           -->
-<!-- ========================================================= -->
-
-## 📫 Contact Me
-
-<p align="center">
-
-<a href="https://github.com/anthonyuchendu3-hue">
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img
-    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-</p>
-
-<br />
-
----
-
-<!-- ========================================================= -->
-<!--                         FOOTER                             -->
-<!-- ========================================================= -->
-
-<p align="center">
-
-<strong>BUILD • SECURE • INNOVATE</strong>
-
-<br /><br />
-
-<em>Thanks for visiting my profile! 🚀</em>
-
-</p>
