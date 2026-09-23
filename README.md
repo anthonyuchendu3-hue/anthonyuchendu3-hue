@@ -407,3 +407,64 @@ TEST         → Find problems before users do
 IMPROVE      → Learn from every project
 DEPLOY       → Turn ideas into real products
 REPEAT       → Keep growing
+```
+
+<br />
+
+---
+
+<!-- ========================================================= -->
+<!--                       CONTACT                             -->
+<!-- ========================================================= -->
+<!-- TODO: Replace every YOUR_* placeholder with your real details -->
+
+## 📬 Contact Me
+
+I'm always open to new projects, collaborations, and conversations about
+web development and cybersecurity. Feel free to reach out through any of
+the channels below.
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-00A8FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/YOUR_X_USERNAME">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://wa.me/YOUR_PHONE_NUMBER_WITH_COUNTRY_CODE">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
+| Channel | Details |
+|---|---|
+| 📧 Email | [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com) |
+| 💼 LinkedIn | [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME) |
+| 🐙 GitHub | [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME) |
+| 🌐 Portfolio | [YOUR_PORTFOLIO_URL](https://YOUR_PORTFOLIO_URL) |
+
+### 🤝 Open To
+
+- 💻 Freelance full-stack development projects
+- 🔐 Web application security reviews (authorized environments only)
+- 🚀 Collaboration on open-source and side projects
+- 💬 Tech and cybersecurity discussions
+
+<p align="center">
+  <em>Let's build something secure, scalable, and useful together. 🚀</em>
+</p>
+
+<br />
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00A8FF&style=flat"
+    alt="Profile views"
+  />
+</p>
