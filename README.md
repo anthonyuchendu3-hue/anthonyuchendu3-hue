@@ -194,51 +194,46 @@ deploying applications, and thinking about application security.
 
 ### 🎨 Frontend
 
-<p style="pointer-events: none; user-select: none;">
+<p>
   <img
     src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"
     alt="Frontend Technologies"
-    style="pointer-events: none; user-select: none;"
   />
 </p>
 
 ### ⚙️ Backend
 
-<p style="pointer-events: none; user-select: none;">
+<p>
   <img
     src="https://skillicons.dev/icons?i=nodejs,express,python"
     alt="Backend Technologies"
-    style="pointer-events: none; user-select: none;"
   />
 </p>
 
 ### 🗄️ Databases
 
-<p style="pointer-events: none; user-select: none;">
+<p>
   <img
     src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"
     alt="Database Technologies"
-    style="pointer-events: none; user-select: none;"
   />
 </p>
 
 ### 🔐 Cybersecurity & Systems
 
-<p style="pointer-events: none; user-select: none;">
+<p>
   <img
     src="https://skillicons.dev/icons?i=linux,bash,docker"
     alt="Cybersecurity and Systems Technologies"
-    style="pointer-events: none; user-select: none;"
   />
 </p>
 
 ### 🔧 Development Tools
 
-<p style="pointer-events: none; user-select: none;">
+<p>
   <img
     src="https://skillicons.dev/icons?i=git,github,vscode,postman"
     alt="Development Tools"
-    style="pointer-events: none; user-select: none;"
   />
 </p>
 
