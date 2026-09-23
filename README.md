@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--                     PROFILE BANNER                        -->
+<!--                    PROFILE BANNER                         -->
 <!-- ========================================================= -->
 
 <p align="center">
@@ -26,39 +26,35 @@
 <br/>
 
 <!-- ========================================================= -->
-<!--                    PROFILE NAVIGATION                     -->
+<!--                     INTRODUCTION                          -->
 <!-- ========================================================= -->
 
+<h1 align="center">👋 Hello, I'm Anthony</h1>
+
+<h3 align="center">
+  Full-Stack Developer • Cybersecurity Specialist • Software Engineer
+</h3>
+
 <p align="center">
-  <a href="#-about-me">👨‍💻 About Me</a>
-  &nbsp; • &nbsp;
-  <a href="#-cybersecurity-skills">🛡️ Cybersecurity</a>
-  &nbsp; • &nbsp;
-  <a href="#-technologies--tools">🛠️ Technologies</a>
-  &nbsp; • &nbsp;
-  <a href="#-featured-projects">🚀 Projects</a>
-  &nbsp; • &nbsp;
-  <a href="#-contact-me">📫 Contact</a>
+  <em>
+    I build modern web applications, secure backend systems,
+    and explore cybersecurity to create safer digital experiences.
+  </em>
+</p>
+
+<p align="center">
+  <a href="#-about-me">About Me</a> •
+  <a href="#-cybersecurity-skills">Cybersecurity</a> •
+  <a href="#-technologies--tools">Technologies</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-contact-me">Contact</a>
 </p>
 
 <br/>
 
----
-
-# 👋 Hello, I'm Anthony
-
-<p align="center">
-  <strong>Full-Stack Developer • Cybersecurity Specialist • Software Engineer</strong>
-</p>
-
-<p align="center">
-  I build modern web applications, secure backend systems,
-  and digital solutions focused on performance, security, and usability.
-</p>
-
-<br/>
-
----
+<!-- ========================================================= -->
+<!--                       ABOUT ME                             -->
+<!-- ========================================================= -->
 
 ## 👨‍💻 About Me
 
@@ -69,7 +65,7 @@ I enjoy working across the entire software development lifecycle —
 from designing interfaces and building APIs to working with databases,
 deploying applications, and thinking about application security.
 
-### What I'm passionate about
+My development interests include:
 
 - 🌐 Full-Stack Web Development
 - ⚛️ Modern Frontend Development
@@ -77,17 +73,20 @@ deploying applications, and thinking about application security.
 - 🗄️ Database Design & Management
 - 🔐 Web Application Security
 - 🛡️ Cybersecurity
-- 🐧 Linux & Networking
+- 🐧 Linux & Security Environments
 - ☁️ Deployment & Cloud Technologies
 - 🧪 Security Testing
 - 🚀 Software Engineering
 
-> **Good software should not only work — it should also be secure,
-> maintainable, scalable, and user-friendly.**
+I believe good software should not only work well —
+
+**it should also be secure, maintainable, scalable, and user-friendly.**
 
 <br/>
 
----
+<!-- ========================================================= -->
+<!--                    WHAT I DO                               -->
+<!-- ========================================================= -->
 
 ## 🚀 What I Do
 
@@ -129,7 +128,9 @@ deploying applications, and thinking about application security.
 
 <br/>
 
----
+<!-- ========================================================= -->
+<!--                CYBERSECURITY SKILLS                       -->
+<!-- ========================================================= -->
 
 ## 🛡️ Cybersecurity Skills
 
@@ -171,14 +172,16 @@ deploying applications, and thinking about application security.
 - Command-line tools
 - Network troubleshooting
 
-> ⚠️ Security testing and penetration testing should only be performed
-> on systems and environments where authorization has been provided.
+> ⚠️ All security testing and penetration testing activities should only
+> be performed on systems and environments where authorization has been provided.
 
 <br/>
 
----
+<!-- ========================================================= -->
+<!--              TOOLS & TECHNOLOGIES                         -->
+<!-- ========================================================= -->
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tools & Technologies
 
 ### 🎨 Frontend
 
@@ -212,25 +215,29 @@ deploying applications, and thinking about application security.
 
 <br/>
 
----
+<!-- ========================================================= -->
+<!--                  TECH STACK TABLE                         -->
+<!-- ========================================================= -->
 
 ## 💡 Technical Stack
 
 | Category | Technologies |
 |---|---|
-| 🎨 Frontend | HTML, CSS, JavaScript, React, Tailwind CSS |
-| ⚙️ Backend | Node.js, Express.js, Python |
-| 🗄️ Databases | MongoDB, PostgreSQL, MySQL |
-| 🔌 APIs | REST APIs, JSON, Postman |
-| 🔐 Security | Web Security, OWASP, Vulnerability Assessment |
-| 🐧 Systems | Linux, Bash, Networking |
-| 🐳 DevOps | Git, GitHub, Docker |
-| 🧰 Development | VS Code, npm, Git |
-| ☁️ Deployment | Cloud & Web Deployment |
+| Frontend | HTML, CSS, JavaScript, React, Tailwind CSS |
+| Backend | Node.js, Express.js, Python |
+| Databases | MongoDB, PostgreSQL, MySQL |
+| APIs | REST APIs, JSON, Postman |
+| Security | Web Security, OWASP, Vulnerability Assessment |
+| Systems | Linux, Bash, Networking |
+| DevOps | Git, GitHub, Docker |
+| Development | VS Code, npm, Git |
+| Deployment | Cloud & Web Deployment |
 
 <br/>
 
----
+<!-- ========================================================= -->
+<!--                    FEATURED PROJECTS                       -->
+<!-- ========================================================= -->
 
 ## 🚀 Featured Projects
 
@@ -239,11 +246,11 @@ deploying applications, and thinking about application security.
 A full-stack real estate platform designed for property discovery,
 management, and online presentation.
 
-**Technologies**
+**Technologies:**
 
 `React` `Tailwind CSS` `Node.js` `Express` `MongoDB` `Axios`
 
-**Features**
+**Focus:**
 
 - Property listings
 - Property search
@@ -259,11 +266,11 @@ management, and online presentation.
 A modern professional portfolio showcasing my development,
 cybersecurity interests, technical skills, and projects.
 
-**Technologies**
+**Technologies:**
 
 `React` `Tailwind CSS` `JavaScript`
 
-**Features**
+**Focus:**
 
 - Responsive UI
 - Modern animations
@@ -278,55 +285,232 @@ cybersecurity interests, technical skills, and projects.
 A collection of authorized cybersecurity experiments and
 learning environments focused on understanding security concepts.
 
-**Areas**
+**Areas:**
 
 `Web Security` `Linux` `Networking` `Reconnaissance` `Vulnerability Assessment`
 
 ---
 
-### 🛒 Full-Stack Applications
+### 🛒 Full-Stack Web Applications
 
 Building practical web applications that combine modern frontend
 interfaces with backend APIs, databases, and secure application design.
 
 <br/>
 
----
+<!-- ========================================================= -->
+<!--                  CURRENTLY LEARNING                        -->
+<!-- ========================================================= -->
 
 ## 📚 Currently Learning
 
-<table>
-<tr>
-<td>🔐 Advanced Web Application Security</td>
-<td>🌐 Full-Stack Architecture</td>
-</tr>
-
-<tr>
-<td>🖥️ Backend Engineering</td>
-<td>🐧 Linux & Networking</td>
-</tr>
-
-<tr>
-<td>🗄️ Database Architecture</td>
-<td>🐳 Docker & Containerization</td>
-</tr>
-
-<tr>
-<td>☁️ Cloud Deployment</td>
-<td>🛡️ Secure Software Development</td>
-</tr>
-</table>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                    CURRENT FOCUS                             │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  🔐 Advanced Web Application Security                        │
+│  🌐 Full-Stack Architecture                                  │
+│  🖥️ Backend Engineering                                     │
+│  🐧 Linux & Networking                                       │
+│  🗄️ Database Architecture                                    │
+│  🐳 Docker & Containerization                                │
+│  ☁️ Cloud Deployment                                         │
+│  🛡️ Secure Software Development                             │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 <br/>
 
----
+<!-- ========================================================= -->
+<!--                    DEVELOPMENT PHILOSOPHY                  -->
+<!-- ========================================================= -->
 
 ## 🧠 Development Philosophy
 
 ```text
-BUILD        → Create useful solutions
-SECURE       → Protect applications and data
-TEST         → Find problems before users do
-IMPROVE      → Learn from every project
-DEPLOY       → Turn ideas into real products
-REPEAT       → Keep growing
+Build        → Create useful solutions
+Secure       → Protect applications and data
+Test         → Find problems before users do
+Improve      → Learn from every project
+Deploy       → Turn ideas into real products
+Repeat       → Keep growing
+```
+
+### My principles
+
+- ✨ Write clean and maintainable code
+- 🔐 Think about security from the beginning
+- 📖 Keep learning
+- 🧪 Test what I build
+- 🧩 Build reusable solutions
+- 📈 Improve continuously
+- 🤝 Collaborate and communicate
+- 🚀 Turn ideas into working products
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                    GITHUB STATS                            -->
+<!-- ========================================================= -->
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=anthonyuchendu3-hue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="170"
+    alt="Anthony's GitHub Statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyuchendu3-hue&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Anthony's Top Languages"
+  />
+</p>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                  GITHUB STREAK                            -->
+<!-- ========================================================= -->
+
+## 🔥 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=anthonyuchendu3-hue&theme=tokyonight&hide_border=true"
+    alt="Anthony's GitHub Streak"
+  />
+</p>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                    CONTRIBUTIONS                          -->
+<!-- ========================================================= -->
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/profile-3d-contrib/profile-night-rainbow.svg"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                     GITHUB TROPHIES                       -->
+<!-- ========================================================= -->
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=anthonyuchendu3-hue&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
+</p>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                       GOALS                               -->
+<!-- ========================================================= -->
+
+## 🎯 2026 Goals
+
+- 🚀 Build and deploy more production-ready applications
+- 🔐 Improve my cybersecurity expertise
+- 🌐 Build secure full-stack applications
+- 🧠 Strengthen backend architecture skills
+- 🐧 Improve Linux and networking knowledge
+- 🐳 Learn more about Docker and DevOps
+- ☁️ Expand cloud and deployment knowledge
+- 🤝 Contribute to open-source projects
+- 📚 Continue learning security research
+- 💼 Build solutions for real-world clients
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                    OPEN TO                               -->
+<!-- ========================================================= -->
+
+## 🤝 Open To
+
+I'm interested in connecting with people working on:
+
+- 💻 Full-Stack Development
+- 🌐 Web Development
+- 🔐 Cybersecurity
+- 🛡️ Application Security
+- 🖥️ Backend Engineering
+- 🚀 Startup & Technology Projects
+- 🤝 Open-Source Projects
+- 💼 Freelance & Professional Opportunities
+- 📚 Technology Communities
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                     CONTACT ME                            -->
+<!-- ========================================================= -->
+
+## 📫 Contact Me
+
+<p align="center">
+
+<a href="https://github.com/anthonyuchendu3-hue">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                    PROFILE VIEWS                          -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=anthonyuchendu3-hue&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
+</p>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                       QUOTE                               -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <strong>
+    BUILD • SECURE • INNOVATE
+  </strong>
+</p>
+
+<p align="center">
+  <em>
+    "The best way to predict the future is to build it."
+  </em>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
