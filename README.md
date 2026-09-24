@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="./Anthony%20Banner.png"
+    src="./Anthony_Banner_code_blue.png"
     alt="Anthony - Full-Stack Developer and Cybersecurity Specialist"
     width="100%"
   />
